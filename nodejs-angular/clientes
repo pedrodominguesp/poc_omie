@@ -1,0 +1,2756 @@
+// cliente
+{
+    "pagina": 1,
+    "total_de_paginas": 12,
+    "registros": 50,
+    "total_de_registros": 588,
+    "clientes_cadastro": [
+        {
+            "bairro": "JARDIM CABORE",
+            "bloquear_faturamento": "N",
+            "cep": "05711001",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6209100",
+            "cnpj_cpf": "32.697.051/0001-00",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872869294,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "ALEXANDER LOMBAO EWERT",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "212",
+                "conta_corrente": "2103467-2",
+                "doc_titular": "32.697.051/0001-00",
+                "nome_titular": "A. L. EWERT SERVICOS DE CONSULTORIA E ASSESSORIA EM TECNOLOG",
+                "transf_padrao": "N"
+            },
+            "email": "aewert@partner.jaguarlandrover.com",
+            "endereco": "R DR LUIZ MIGLIANO",
+            "enderecoEntrega": {},
+            "endereco_numero": "1986",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "10/05/2022",
+                "dInc": "30/06/2020",
+                "hAlt": "17:48:40",
+                "hInc": "19:15:59",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "A. L. EWERT SERVICOS DE CONSULTORIA E ASSESSORIA EM TECNOLOGIA DA INFORMACAO EIRELI",
+            "pessoa_fisica": "N",
+            "razao_social": "A. L. EWERT SERVICOS DE CONSULTORIA E ASSESSORIA EM TECNOLOG",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "97364-9060",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "VILA ARENS II",
+            "bloquear_faturamento": "N",
+            "cep": "13202542",
+            "cidade": "JUNDIAI (SP)",
+            "cidade_ibge": "3525904",
+            "cnae": "8211300",
+            "cnpj_cpf": "35.548.030/0001-11",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872871266,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "ANTONIO JESUS FERRAZ",
+            "dadosBancarios": {
+                "agencia": "0658",
+                "codigo_banco": "341",
+                "conta_corrente": "29872-4",
+                "doc_titular": "35.548.030/0001-11",
+                "nome_titular": "A. J. FERRAZ SERVICOS ADMINISTRATIVOS LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "aferrazuk@gmail.com",
+            "endereco": "RUA MAESTRO FREDERICO NANO",
+            "enderecoEntrega": {},
+            "endereco_numero": "396",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:41:49",
+                "hInc": "19:46:08",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "A. J. FERRAZ SERVICOS ADMINISTRATIVOS LTDA",
+            "optante_simples_nacional": "S",
+            "pessoa_fisica": "N",
+            "razao_social": "A. J. FERRAZ SERVICOS ADMINISTRATIVOS LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "VILA PREL",
+            "bloquear_faturamento": "N",
+            "cep": "05835004",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6209100",
+            "cnpj_cpf": "17.652.188/0001-55",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872871660,
+            "codigo_pais": "1058",
+            "complemento": "APT: 62; EDIF: ALFA II;",
+            "contato": "ANA PAULA NOVOLETTO",
+            "dadosBancarios": {
+                "agencia": "1608",
+                "codigo_banco": "341",
+                "conta_corrente": "41155-7",
+                "doc_titular": "17.652.188/0001-55",
+                "nome_titular": "ANA PAULA NOVOLETTO EIRELI",
+                "transf_padrao": "N"
+            },
+            "email": "ana.novoletto@evoxcorp.com",
+            "endereco": "EST DE ITAPECERICA",
+            "enderecoEntrega": {},
+            "endereco_numero": "2736",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:07:43",
+                "hInc": "20:08:33",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "BEGO CONSULTORIA",
+            "pessoa_fisica": "N",
+            "razao_social": "ANA PAULA NOVOLETTO EIRELI",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "5511-9164",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "SAUDE",
+            "bloquear_faturamento": "N",
+            "cep": "04055110",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6201501",
+            "cnpj_cpf": "35.001.348/0001-88",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872871684,
+            "codigo_pais": "1058",
+            "complemento": "APT 64",
+            "contato": "BRUNO PAULINO DA COSTA",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "260",
+                "conta_corrente": "25010924-3",
+                "doc_titular": "35.001.348/0001-88",
+                "nome_titular": "B. P. DA COSTA SERVICOS ADMINISTRATIVOS EIRELI",
+                "transf_padrao": "S"
+            },
+            "email": "bruno.costa@evoxcorp.com",
+            "endereco": "RUA DAS UVAIAS",
+            "enderecoEntrega": {},
+            "endereco_numero": "201",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "09/12/2022",
+                "dInc": "30/06/2020",
+                "hAlt": "11:19:55",
+                "hInc": "20:13:34",
+                "uAlt": "P000498692",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "B. P. DA COSTA SERVICOS ADMINISTRATIVOS EIRELI",
+            "optante_simples_nacional": "S",
+            "pessoa_fisica": "N",
+            "razao_social": "B. P. DA COSTA SERVICOS ADMINISTRATIVOS EIRELI",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "SANTA PAULA",
+            "bloquear_faturamento": "N",
+            "cep": "09541180",
+            "cidade": "SAO CAETANO DO SUL (SP)",
+            "cidade_ibge": "3548807",
+            "cnae": "6209100",
+            "cnpj_cpf": "17.377.257/0001-60",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872872326,
+            "codigo_pais": "1058",
+            "complemento": "APT 51",
+            "contato": "GUSTAVO FELIPE MARIANI BURDELIS",
+            "dadosBancarios": {
+                "agencia": "0109",
+                "codigo_banco": "033",
+                "conta_corrente": "13010913-4",
+                "doc_titular": "17.377.257/0001-60",
+                "nome_titular": "BURDELIS CONSULTORIA EM INFORMATICA EIRELI",
+                "transf_padrao": "N"
+            },
+            "email": "gustavoburdelis@hotmail.com,condor@condorcontab.com.br",
+            "endereco": "RUA PINHEIRO MACHADO",
+            "enderecoEntrega": {},
+            "endereco_numero": "120",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "04/08/2022",
+                "dInc": "30/06/2020",
+                "hAlt": "11:55:29",
+                "hInc": "20:31:42",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "BURDELIS CONSULTORIA EM INFORMATICA EIRELI",
+            "pessoa_fisica": "N",
+            "razao_social": "BURDELIS CONSULTORIA EM INFORMATICA EIRELI",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "97177-0242",
+            "telefone2_ddd": "11",
+            "telefone2_numero": "971770242",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "PARQUE TABOAO",
+            "bloquear_faturamento": "N",
+            "cep": "06765000",
+            "cidade": "TABOAO DA SERRA (SP)",
+            "cidade_ibge": "3552809",
+            "cnae": "6204000",
+            "cnpj_cpf": "34.063.352/0001-08",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872872426,
+            "codigo_pais": "1058",
+            "complemento": "APT 163 G",
+            "contato": "CARLOS EDUARDO DE PAULO CRUZ OLIVEIRA",
+            "dadosBancarios": {
+                "agencia": "0655",
+                "codigo_banco": "",
+                "conta_corrente": "2074957-0",
+                "doc_titular": "34.063.352/0001-08",
+                "nome_titular": "CI TECHNOLOGY LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "carlos.oliveira@evoxcorp.com",
+            "endereco": "EST SAO FRANCISCO",
+            "enderecoEntrega": {},
+            "endereco_numero": "2008",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:09:14",
+                "hInc": "20:44:33",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "CI TECHNOLOGY LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "CI TECHNOLOGY LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "4787-6305",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "CAMILOPOLIS",
+            "bloquear_faturamento": "N",
+            "cep": "09230380",
+            "cidade": "SANTO ANDRE (SP)",
+            "cidade_ibge": "3547809",
+            "cnae": "6209100",
+            "cnpj_cpf": "09.461.879/0001-43",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872872683,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "JAIRO EVANDRO MARQUES",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "077",
+                "conta_corrente": "20772803-8",
+                "doc_titular": "09.461.879/0001-43",
+                "nome_titular": "CJ EXPERT CONSULTORIA E ASSESSORIA EM INFORMATICA LTDA",
+                "transf_padrao": "S"
+            },
+            "email": "contalfa@uol.com.br,gerencia@contabilalfa.com.br",
+            "endereco": "RUA MATILDE",
+            "enderecoEntrega": {},
+            "endereco_numero": "30",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "14/07/2022",
+                "dInc": "30/06/2020",
+                "hAlt": "14:03:19",
+                "hInc": "20:50:49",
+                "uAlt": "P000328582",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "PINK",
+            "pessoa_fisica": "N",
+            "razao_social": "CJ EXPERT CONSULTORIA E ASSESSORIA EM INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "44794187",
+            "telefone2_ddd": "11",
+            "telefone2_numero": "38071485",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "JARDIM ERMIDA II",
+            "bloquear_faturamento": "N",
+            "cep": "13212210",
+            "cidade": "JUNDIAI (SP)",
+            "cidade_ibge": "3525904",
+            "cnae": "6201501",
+            "cnpj_cpf": "05.673.226/0001-77",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872873318,
+            "codigo_pais": "1058",
+            "complemento": "CASA 114 COND NATURE VILLAGE",
+            "contato": "CLAUDIO CAMPOS",
+            "dadosBancarios": {
+                "agencia": "0627",
+                "codigo_banco": "237",
+                "conta_corrente": "6139-5",
+                "doc_titular": "05.673.226/0001-77",
+                "nome_titular": "CLMC CONSULTORIA EM INFORMATICA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "claudio.campos@evoxcorp.com",
+            "endereco": "AV LUIZ JOSE SERENO",
+            "enderecoEntrega": {},
+            "endereco_numero": "800",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:10:14",
+                "hInc": "21:00:12",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "CLMC CONSULTORIA EM INFORMATICA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "CLMC CONSULTORIA EM INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "16",
+            "telefone1_numero": "3472-2811",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "JARDIM PROMISSAO",
+            "bloquear_faturamento": "N",
+            "cep": "04753130",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6209100",
+            "cnpj_cpf": "28.262.497/0001-35",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872873411,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "DANIEL CASADEI COSTA",
+            "dadosBancarios": {
+                "agencia": "1506",
+                "codigo_banco": "001",
+                "conta_corrente": "24164-4",
+                "doc_titular": "28.262.497/0001-35",
+                "nome_titular": "DJC-IT INFORMATICA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "danielcasadei@gmail.com",
+            "endereco": "R DR LICINIO MARAGLIANO",
+            "enderecoEntrega": {},
+            "endereco_numero": "309",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:43:06",
+                "hInc": "21:10:40",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "DJC-IT INFORMATICA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "DJC-IT INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "5547-4535",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "CIDADE ADEMAR",
+            "bloquear_faturamento": "N",
+            "cep": "04405180",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6209100",
+            "cnpj_cpf": "22.922.542/0001-54",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872873549,
+            "codigo_pais": "1058",
+            "complemento": "CASA: 04;",
+            "contato": "DIEGO FRUTUOSO MACHADO",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "260",
+                "conta_corrente": "29984664-5",
+                "doc_titular": "22.922.542/0001-54",
+                "nome_titular": "DIEGO FRUTUOSO MACHADO",
+                "transf_padrao": "S"
+            },
+            "email": "diego.machado@evoxcorp.com",
+            "endereco": "R MANIPUCA",
+            "enderecoEntrega": {},
+            "endereco_numero": "94",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "09/12/2022",
+                "dInc": "30/06/2020",
+                "hAlt": "18:21:38",
+                "hInc": "21:22:02",
+                "uAlt": "P000498692",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "DIEGO FRUTUOSO MACHADO",
+            "pessoa_fisica": "N",
+            "razao_social": "DIEGO FRUTUOSO MACHADO",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "2155-0074",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "JARDIM ITAMARATY",
+            "bloquear_faturamento": "N",
+            "cep": "13843098",
+            "cidade": "MOGI GUACU (SP)",
+            "cidade_ibge": "3530706",
+            "cnae": "6311900",
+            "cnpj_cpf": "21.750.033/0001-29",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872873616,
+            "codigo_pais": "1058",
+            "complemento": "LOTE: 74;",
+            "contato": "ELTON CAVALHERI DE OLIVEIRA",
+            "dadosBancarios": {
+                "agencia": "3208",
+                "codigo_banco": "033",
+                "conta_corrente": "13003062-0",
+                "doc_titular": "21.750.033/0001-29",
+                "nome_titular": "ELTON C DE OLIVEIRA PROCESSAMENTO DE DADOS",
+                "transf_padrao": "S"
+            },
+            "email": "elton.cavalheri@evoxcorp.com",
+            "endereco": "R BENEDITO EUCLIDES MARTINI",
+            "enderecoEntrega": {},
+            "endereco_numero": "1500",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "09/12/2022",
+                "dInc": "30/06/2020",
+                "hAlt": "19:05:22",
+                "hInc": "21:25:54",
+                "uAlt": "P000498692",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "ELTON C DE OLIVEIRA PROCESSAMENTO DE DADOS",
+            "pessoa_fisica": "N",
+            "razao_social": "ELTON C DE OLIVEIRA PROCESSAMENTO DE DADOS",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "19",
+            "telefone1_numero": "99697-0717",
+            "telefone2_numero": "19 99697-0717",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "BROOKLIN PAULISTA",
+            "bloquear_faturamento": "N",
+            "cep": "04578000",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6201501",
+            "cnpj_cpf": "07.722.892/0001-83",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872874113,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "CARLOS ANTONIO CAMPOS NOGUEIRA",
+            "dadosBancarios": {
+                "agencia": "2978",
+                "codigo_banco": "341",
+                "conta_corrente": "12932-4",
+                "doc_titular": "07.722.892/0001-83",
+                "nome_titular": "EXPERTEAM CONSULTORIA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "can@intellisearch.com.br",
+            "endereco": "AVENIDA DAS NACOES UNIDAS",
+            "enderecoEntrega": {},
+            "endereco_numero": "12495",
+            "estado": "SP",
+            "exterior": "N",
+            "fax_ddd": "11",
+            "fax_numero": "20975779",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:12:54",
+                "hInc": "21:28:53",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "EXPERTEAM CONSULTORIA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "EXPERTEAM CONSULTORIA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "61945780",
+            "telefone2_ddd": "11",
+            "telefone2_numero": "20945779",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "VILA POMPEIA",
+            "bloquear_faturamento": "N",
+            "cep": "05010040",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6201501",
+            "cnpj_cpf": "08.451.143/0001-21",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872874382,
+            "codigo_pais": "1058",
+            "complemento": "APT 122",
+            "contato": "OLAVO MENDONCA DE FARIA",
+            "dadosBancarios": {
+                "agencia": "2000",
+                "codigo_banco": "341",
+                "conta_corrente": "55593-4",
+                "doc_titular": "08.451.143/0001-21",
+                "nome_titular": "FUNCTION PLUS INFORMATICA LTDA",
+                "transf_padrao": "S"
+            },
+            "email": "olavo.faria@evoxcorp.com",
+            "endereco": "RUA DESEMBARGADOR DO VALE",
+            "enderecoEntrega": {},
+            "endereco_numero": "350",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "14/02/2023",
+                "dInc": "30/06/2020",
+                "hAlt": "20:49:38",
+                "hInc": "21:36:57",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "FUNCTION PLUS INFORMATICA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "FUNCTION PLUS INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                },
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "99266-6697",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "SAO PAULO II",
+            "bloquear_faturamento": "N",
+            "cep": "06706005",
+            "cidade": "COTIA (SP)",
+            "cidade_ibge": "3513009",
+            "cnae": "6201501",
+            "cnpj_cpf": "34.581.129/0001-52",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872874446,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "GABRIEL DE CAMPOS LACERDA SCHIAVO",
+            "dadosBancarios": {
+                "agencia": "4788",
+                "codigo_banco": "033",
+                "conta_corrente": "13004896-6",
+                "doc_titular": "34.581.129/0001-52",
+                "nome_titular": "G. DE CAMPOS LACERDA SCHIAVO APOIO ADMINISTRATIVO EIRELI",
+                "transf_padrao": "N"
+            },
+            "email": "gabriel_schiavo@hotmail.com",
+            "endereco": "AV ESTACIO DE SA",
+            "enderecoEntrega": {},
+            "endereco_numero": "810",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "23/12/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "13:28:06",
+                "hInc": "21:43:09",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "G. DE CAMPOS LACERDA SCHIAVO APOIO ADMINISTRATIVO EIRELI",
+            "pessoa_fisica": "N",
+            "razao_social": "G. DE CAMPOS LACERDA SCHIAVO APOIO ADMINISTRATIVO EIRELI",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "BOSQUES DE GREVILEA",
+            "bloquear_faturamento": "N",
+            "cep": "13280001",
+            "cidade": "VINHEDO (SP)",
+            "cidade_ibge": "3556701",
+            "cnae": "6201501",
+            "cnpj_cpf": "13.977.364/0001-78",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872874613,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "LEONARDO HAMER",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "212",
+                "conta_corrente": "2232794-0",
+                "doc_titular": "13.977.364/0001-78",
+                "nome_titular": "HAMER CONSULTORIA EM TI LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "leonardo.hamer@evoxcorp.com",
+            "endereco": "AL DAS GRAUNAS",
+            "enderecoEntrega": {},
+            "endereco_numero": "221",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/07/2022",
+                "dInc": "30/06/2020",
+                "hAlt": "16:22:56",
+                "hInc": "21:48:15",
+                "uAlt": "P000328582",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "HAMER CONSULTORIA EM TI LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "HAMER CONSULTORIA EM TI LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                },
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "CATUMBI",
+            "bloquear_faturamento": "N",
+            "cep": "03020040",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnpj_cpf": "34.694.122/0001-47",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872877965,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "IGOR RAMON RODRIGUES NASCIMENTO",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "212",
+                "conta_corrente": "2589362-9",
+                "doc_titular": "34.694.122/0001-47",
+                "nome_titular": "I. R. R. NASCIMENTO APOIO ADMINISTRATIVO EIRELI",
+                "transf_padrao": "N"
+            },
+            "email": "irn.nascimento@hotmail.com",
+            "endereco": "LOGRADOURO: RUA RODRIGO DE MENEZES",
+            "enderecoEntrega": {},
+            "endereco_numero": "",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:14:43",
+                "hInc": "21:53:15",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "I. R. R. NASCIMENTO APOIO ADMINISTRATIVO EIRELI",
+            "pessoa_fisica": "N",
+            "razao_social": "I. R. R. NASCIMENTO APOIO ADMINISTRATIVO EIRELI",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "8790-4188",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "VILA MARIANA",
+            "bloquear_faturamento": "N",
+            "cep": "04117130",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6209100",
+            "cnpj_cpf": "13.952.473/0001-30",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872878030,
+            "codigo_pais": "1058",
+            "complemento": "CONJ 12",
+            "contato": "ROBERTO PINETTI",
+            "dadosBancarios": {
+                "agencia": "2970",
+                "codigo_banco": "341",
+                "conta_corrente": "26555-5",
+                "doc_titular": "13.952.473/0001-30",
+                "nome_titular": "IMAGINE CONSULTORIA INFORMATICA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "roberto.pinetti@evoxcorp.com",
+            "endereco": "R FLAVIO DE MELO",
+            "enderecoEntrega": {},
+            "endereco_numero": "239",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:15:03",
+                "hInc": "22:38:00",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "IMAGINE CONSULTORIA INFORMATICA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "IMAGINE CONSULTORIA INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone2_ddd": "11",
+            "telefone2_numero": "3556-8495",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "VILA DOM PEDRO II",
+            "bloquear_faturamento": "N",
+            "cep": "02241000",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6311900",
+            "cnpj_cpf": "24.972.198/0001-33",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872878076,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "DENISE CREMONINI",
+            "dadosBancarios": {
+                "agencia": "136-8",
+                "codigo_banco": "237",
+                "conta_corrente": "4022-3",
+                "doc_titular": "24.972.198/0001-33",
+                "nome_titular": "INFOLCF IT CONSULTORIA DE INFORMATICA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "cremonini@hotmail.com",
+            "endereco": "R SILVIO RODINI",
+            "enderecoEntrega": {},
+            "endereco_numero": "365",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:15:12",
+                "hInc": "22:46:19",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "INFOLCF IT CONSULTORIA DE INFORMATICA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "INFOLCF IT CONSULTORIA DE INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "4337-4526",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "PARQUE SANTO ANTONIO",
+            "bloquear_faturamento": "N",
+            "cep": "05851240",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6201501",
+            "cnpj_cpf": "10.979.628/0001-34",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872878114,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "ITALO ROCHA PASSOS",
+            "dadosBancarios": {
+                "agencia": "6636",
+                "codigo_banco": "341",
+                "conta_corrente": "10841-4",
+                "doc_titular": "10.979.628/0001-34",
+                "nome_titular": "IRP SERVICOS EM INFORMATICA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "humbertoguizi@hotmail.com",
+            "endereco": "R JULIO LOURENCO PINTO",
+            "enderecoEntrega": {},
+            "endereco_numero": "401",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:15:20",
+                "hInc": "22:52:20",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "IRP CONSULTING",
+            "pessoa_fisica": "N",
+            "razao_social": "IRP SERVICOS EM INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "4137-5932",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "SANTO AMARO",
+            "bloquear_faturamento": "N",
+            "cep": "04742080",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6204000",
+            "cnpj_cpf": "01.021.016/0001-43",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872878157,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "DAGMAR DE FATIMA IZAR",
+            "dadosBancarios": {
+                "agencia": "8667",
+                "codigo_banco": "341",
+                "conta_corrente": "10402-3",
+                "doc_titular": "01.021.016/0001-43",
+                "nome_titular": "IZAR CONSULTORIA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "dagmar@bravocorp.com.br",
+            "endereco": "R PACATUBA",
+            "enderecoEntrega": {},
+            "endereco_numero": "79",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:43:02",
+                "hInc": "22:56:42",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "IZAR CONSULTORIA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "IZAR CONSULTORIA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "PARQUE DAS NACOES",
+            "bloquear_faturamento": "N",
+            "cep": "09280080",
+            "cidade": "SANTO ANDRE (SP)",
+            "cidade_ibge": "3547809",
+            "cnae": "8211300",
+            "cnpj_cpf": "33.793.912/0001-17",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872878183,
+            "codigo_pais": "1058",
+            "complemento": "APT 5",
+            "contato": "JENNER MARQUES",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "212",
+                "conta_corrente": "1636502-0",
+                "doc_titular": "33.793.912/0001-17",
+                "nome_titular": "J. E. MARQUES SERVICOS ADMINISTRATIVOS EIRELI",
+                "transf_padrao": "N"
+            },
+            "email": "jenner.marques@evoxcorp.com",
+            "endereco": "R SUECIA",
+            "enderecoEntrega": {},
+            "endereco_numero": "277",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:45:28",
+                "hInc": "23:00:17",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "J. E. MARQUES SERVICOS ADMINISTRATIVOS EIRELI",
+            "pessoa_fisica": "N",
+            "razao_social": "J. E. MARQUES SERVICOS ADMINISTRATIVOS EIRELI",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "4977-9445",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "ITAQUERA",
+            "bloquear_faturamento": "N",
+            "cep": "08220831",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6319400",
+            "cnpj_cpf": "21.265.214/0001-60",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872878232,
+            "codigo_pais": "1058",
+            "complemento": "APT: 31; BLOCO: 3;",
+            "contato": "JUNIOR MAKINO",
+            "dadosBancarios": {
+                "agencia": "8777",
+                "codigo_banco": "341",
+                "conta_corrente": "15087-4",
+                "doc_titular": "21.265.214/0001-60",
+                "nome_titular": "JHKS SERVICOS DE INFORMACAO e SEGURANCA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "junior.makino@evoxcorp.com",
+            "endereco": "AVENIDA CAMPANELLA",
+            "enderecoEntrega": {},
+            "endereco_numero": "2092",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:45:45",
+                "hInc": "23:03:28",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "JHKS SERVICOS DE INFORMACAO &amp; SEGURANCA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "JHKS SERVICOS DE INFORMACAO &amp; SEGURANCA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "55097151",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "JAGUARE",
+            "bloquear_faturamento": "N",
+            "cep": "05332000",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6209100",
+            "cnpj_cpf": "15.260.613/0001-35",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872878260,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "contato": "JUN KAY TANAKA",
+            "dadosBancarios": {
+                "agencia": "4579",
+                "codigo_banco": "033",
+                "conta_corrente": "13003303-0",
+                "doc_titular": "15.260.613/0001-35",
+                "nome_titular": "JK TANAKA SUPORTE TECNICO EM TI LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "jun.tanaka@evoxcorp.com",
+            "endereco": "R MARSELHA",
+            "enderecoEntrega": {},
+            "endereco_numero": "574",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "17/08/2021",
+                "dInc": "30/06/2020",
+                "hAlt": "00:45:49",
+                "hInc": "23:06:04",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "JK TANAKA SUPORTE TECNICO EM TI LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "JK TANAKA SUPORTE TECNICO EM TI LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                },
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3836-8511",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "CIDADE MONCOES",
+            "bloquear_faturamento": "N",
+            "cep": "04571010",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6201501",
+            "cnpj_cpf": "16.464.313/0001-30",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872925704,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR 3 CONJ 32 CXPST 45",
+            "contato": "ALVARO CARVALHO",
+            "dadosBancarios": {
+                "agencia": "3171",
+                "codigo_banco": "341",
+                "conta_corrente": "13731-2",
+                "doc_titular": "16.464.313/0001-30",
+                "nome_titular": "LC SYSTEM IT INFORMATICA LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "alvaro.carvalho@evoxcorp.com",
+            "endereco": "AV ENGENHEIRO LUIZ CARLOS BERRINI",
+            "enderecoEntrega": {},
+            "endereco_numero": "828",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "S",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/07/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "16:44:16",
+                "hInc": "08:56:26",
+                "uAlt": "P000328582",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "LC SYSTEM IT",
+            "pessoa_fisica": "N",
+            "razao_social": "LC SYSTEM IT INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "19",
+            "telefone1_numero": "3662-2976",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "SANTANA",
+            "bloquear_faturamento": "N",
+            "cep": "02402000",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6311900",
+            "cnpj_cpf": "33.057.469/0001-16",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872938125,
+            "codigo_pais": "1058",
+            "complemento": "APT 84",
+            "contato": "LUCIANO CARLOS MARTINS",
+            "dadosBancarios": {
+                "agencia": "0001",
+                "codigo_banco": "336",
+                "conta_corrente": "23653682-6",
+                "doc_titular": "33.057.469/0001-16",
+                "nome_titular": "LCM SOLUCOES EM INFORMATICA LTDA",
+                "transf_padrao": "S"
+            },
+            "email": "lucianomartins02@hotmail.com",
+            "endereco": "RUA VOLUNTARIOS DA PATRIA",
+            "enderecoEntrega": {},
+            "endereco_numero": "2570",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "02/02/2023",
+                "dInc": "01/07/2020",
+                "hAlt": "15:13:16",
+                "hInc": "09:21:13",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "LCM SOLUCOES EM TI",
+            "pessoa_fisica": "N",
+            "razao_social": "LCM SOLUCOES EM INFORMATICA LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                },
+                {
+                    "tag": "Consultor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "99280-8686",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "RECIFE",
+            "bloquear_faturamento": "N",
+            "cep": "50030110",
+            "cidade": "RECIFE (PE)",
+            "cidade_ibge": "2611606",
+            "cnae": "2320600",
+            "cnpj_cpf": "10.656.452/0001-80",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872952976,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR 0007",
+            "contato": "VOTORANTIM CIMENTOS N/NE S/A",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "cadastrodeempresas@votorantim.com",
+            "endereco": "R MADRE DE DEUS",
+            "enderecoEntrega": {},
+            "endereco_numero": "27",
+            "estado": "PE",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "11/09/2020",
+                "dInc": "01/07/2020",
+                "hAlt": "13:01:04",
+                "hInc": "10:30:06",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "VOTORANTIM CIMENTOS N/NE S/A",
+            "pessoa_fisica": "N",
+            "razao_social": "VOTORANTIM CIMENTOS N/NE S/A",
+            "recomendacoes": {
+                "codigo_vendedor": 1873050300,
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "41",
+            "telefone1_numero": "3388-5660"
+        },
+        {
+            "bairro": "VILA OLIMPIA",
+            "bloquear_faturamento": "N",
+            "cep": "04547006",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "2320600",
+            "cnpj_cpf": "01.637.895/0001-32",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872953717,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR: 12; CONJ: 122;",
+            "contato": "VOTORANTIM CIMENTOS S.A.",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "priscila.santos.ps2@vcimentos.com,recebimentofiscalservicos@votorantim.com,nftivc@vcimentos.com.br",
+            "endereco": "R GOMES DE CARVALHO",
+            "enderecoEntrega": {},
+            "endereco_numero": "1996",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "14:10:34",
+                "hInc": "10:33:59",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "VOTORAN",
+            "pessoa_fisica": "N",
+            "razao_social": "VOTORANTIM CIMENTOS S.A.",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "41",
+            "telefone1_numero": "3388-5660"
+        },
+        {
+            "bairro": "JD. PAULISTANO",
+            "bloquear_faturamento": "N",
+            "cep": "01448000",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6462000",
+            "cnpj_cpf": "03.407.049/0001-51",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872954069,
+            "codigo_pais": "1058",
+            "complemento": "13 ANDAR, CJ A",
+            "contato": "VOTORANTIM S.A.",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "thayna.nascimento@votorantim.com",
+            "endereco": "R AMAURI",
+            "enderecoEntrega": {},
+            "endereco_numero": "255",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "13/09/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "20:10:16",
+                "hInc": "10:36:11",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "V.I.",
+            "pessoa_fisica": "N",
+            "razao_social": "VOTORANTIM S.A.",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "T54"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "41",
+            "telefone1_numero": "3388-5660"
+        },
+        {
+            "bairro": "ABRANCHES",
+            "bloquear_faturamento": "N",
+            "cep": "82130570",
+            "cidade": "CURITIBA (PR)",
+            "cidade_ibge": "4106902",
+            "cnae": "6462000",
+            "cnpj_cpf": "03.407.049/0002-32",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1872954404,
+            "codigo_pais": "1058",
+            "complemento": "BLOCO A",
+            "contato": "VOTORANTIM S.A. CURITIBA",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "dhodireto@votorantim.com",
+            "endereco": "ROD CURITIBA /RIO BRANCO DO SUL-PR 092",
+            "enderecoEntrega": {},
+            "endereco_numero": "1303",
+            "estado": "PR",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "13/09/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "20:10:42",
+                "hInc": "10:37:31",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "VOTORANTIM S.A.",
+            "pessoa_fisica": "N",
+            "razao_social": "VOTORANTIM S.A.",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "T54"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ]
+        },
+        {
+            "bairro": "CIDADE MONCOES",
+            "bloquear_faturamento": "N",
+            "cep": "04567003",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6204000",
+            "cnpj_cpf": "66.850.546/0001-40",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873019454,
+            "codigo_pais": "1058",
+            "complemento": "SALA 1 B",
+            "contato": "BEESBY",
+            "dadosBancarios": {
+                "agencia": "3875",
+                "codigo_banco": "033",
+                "conta_corrente": "13007494-3",
+                "doc_titular": "66.850.546/0001-40",
+                "nome_titular": "BEESBY COMMERCE TECNOLOGIA DA INFORMACAO LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "fabiana.costa@beesby.com",
+            "endereco": "R ARIZONA",
+            "enderecoEntrega": {},
+            "endereco_numero": "1349",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "11/10/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "11:03:11",
+                "hInc": "15:42:13",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "BEESBY",
+            "pessoa_fisica": "N",
+            "razao_social": "BEESBY COMMERCE TECNOLOGIA DA INFORMACAO LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Fornecedor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "2615-1200",
+            "tipo_atividade": "2"
+        },
+        {
+            "bairro": "ITAIM BIBI",
+            "bloquear_faturamento": "N",
+            "cep": "04533013",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "3511501",
+            "cnpj_cpf": "29.884.534/0001-00",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873037194,
+            "codigo_pais": "1058",
+            "complemento": "SALA 101 102 E 103",
+            "contato": "HERIKA CASTILHO",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "herika.castilho@marlimazulenergia.com",
+            "endereco": "R TABAPUA",
+            "enderecoEntrega": {},
+            "endereco_numero": "841",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "14:09:37",
+                "hInc": "20:45:08",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "119145316113",
+            "inscricao_municipal": "",
+            "nome_fantasia": "MARLIM AZUL ENERGIA S.A.",
+            "pessoa_fisica": "N",
+            "razao_social": "MARLIM AZUL ENERGIA S.A.",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                },
+                {
+                    "tag": "Fornecedor"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3386-3501"
+        },
+        {
+            "bairro": "SETOR BARCELOS",
+            "bloquear_faturamento": "N",
+            "cep": "75383270",
+            "cidade": "TRINDADE (GO)",
+            "cidade_ibge": "5221403",
+            "cnae": "1122401",
+            "cnpj_cpf": "03.380.763/0015-07",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873037367,
+            "codigo_pais": "1058",
+            "complemento": "QUADRA17",
+            "contato": "DANIEL ZANI",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "contabilidade@rebic.com.br",
+            "endereco": "R 2",
+            "enderecoEntrega": {},
+            "endereco_numero": "255",
+            "estado": "GO",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/02/2023",
+                "dInc": "01/07/2020",
+                "hAlt": "16:52:15",
+                "hInc": "20:50:06",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "REFRESCOS BANDEIRANTES",
+            "pessoa_fisica": "N",
+            "razao_social": "REFRESCOS BANDEIRANTES INDUSTRIA E COMERCIO LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "A15"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                },
+                {
+                    "tag": "Fornecedor"
+                }
+            ],
+            "telefone1_ddd": "62",
+            "telefone1_numero": "3236-2000"
+        },
+        {
+            "bairro": "JARARACA",
+            "bloquear_faturamento": "N",
+            "cep": "27580000",
+            "cidade": "ITATIAIA (RJ)",
+            "cidade_ibge": "3302254",
+            "cnae": "2910701",
+            "cnpj_cpf": "10.313.717/0008-13",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038163,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "alima@jaguarlandrover.com",
+            "endereco": "AV INDUSTRIAL ALDA BERNARDES DE FARIA E SILVA",
+            "enderecoEntrega": {},
+            "endereco_numero": "1555",
+            "estado": "RJ",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "14:13:34",
+                "hInc": "20:54:35",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "JAGUAR E LAND ROVER BRASIL INDUSTRIA E COMERCIO DE VEICULOS LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "JAGUAR E LAND ROVER BRASIL INDUSTRIA E COMERCIO DE VEICULOS",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "5056-7000"
+        },
+        {
+            "bairro": "JARDIM PAULISTANO",
+            "bloquear_faturamento": "N",
+            "cep": "01452919",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "8211300",
+            "cnpj_cpf": "16.404.287/0033-32",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038240,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR 6 AO10 EPARTE8",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "regularidades@suzano.com.br,ext.daphine.santos@suzano.com.br,nfs@suzano.com.br,planejamento_ti@suzano.com.br",
+            "endereco": "AV BRIGADEIRO FARIA LIMA 1355",
+            "enderecoEntrega": {},
+            "endereco_numero": "1355",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "07/07/2020",
+                "dInc": "01/07/2020",
+                "hAlt": "16:45:53",
+                "hInc": "20:55:25",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "SUZANO PAPEL E CELULOSE",
+            "pessoa_fisica": "N",
+            "razao_social": "SUZANO S.A.",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3503-9172"
+        },
+        {
+            "bairro": "CASCATA",
+            "bloquear_faturamento": "N",
+            "cep": "13146027",
+            "cidade": "PAULINIA (SP)",
+            "cidade_ibge": "3536505",
+            "cnae": "2422901",
+            "cnpj_cpf": "21.109.652/0001-39",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038330,
+            "codigo_pais": "1058",
+            "complemento": "GALPAO: B;",
+            "contato": "RENATO PRAZERES",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "renato.prazeres@steelwarehousecisa.com.br",
+            "endereco": "AV PARIS",
+            "enderecoEntrega": {},
+            "endereco_numero": "1031",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "13/09/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "20:09:25",
+                "hInc": "20:56:03",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "STEEL WAREHOUSE CISA INDUSTRIAS DE ACO LTDA.",
+            "pessoa_fisica": "N",
+            "razao_social": "STEEL WAREHOUSE CISA INDUSTRIAS DE ACO LTDA.",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "A21"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                },
+                {
+                    "tag": "Fornecedor"
+                }
+            ],
+            "telefone1_ddd": "19",
+            "telefone1_numero": "2117-1002"
+        },
+        {
+            "bairro": "JARDIM DAS INDUSTRIAS",
+            "bloquear_faturamento": "N",
+            "cep": "11573901",
+            "cidade": "CUBATAO (SP)",
+            "cidade_ibge": "3513504",
+            "cnae": "2011800",
+            "cnpj_cpf": "33.958.695/0006-82",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038457,
+            "codigo_pais": "1058",
+            "complemento": "KM 267,7",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "rmsalles@unipar.ind.br",
+            "endereco": "ROD CONEGO DOMENICO RANGONI",
+            "enderecoEntrega": {},
+            "endereco_numero": "S/N",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "01/07/2020",
+                "dInc": "01/07/2020",
+                "hAlt": "20:57:20",
+                "hInc": "20:56:58",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "UNIPAR CARBOCLORO S.A.",
+            "pessoa_fisica": "N",
+            "razao_social": "UNIPAR CARBOCLORO S.A.",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "13",
+            "telefone1_numero": "3362-8054"
+        },
+        {
+            "bairro": "CIDADE MONCOES",
+            "bloquear_faturamento": "N",
+            "cep": "04571010",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "7020400",
+            "cnpj_cpf": "42.416.651/0016-93",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038537,
+            "codigo_pais": "1058",
+            "complemento": "TORRE 3 SETOR B ANDAR 5 CONJ 51",
+            "contato": "GIOVANNA DAMIANI",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "cadastrodeempresas@votorantim.com",
+            "endereco": "AV ENGENHEIRO LUIZ CARLOS BERRINI",
+            "enderecoEntrega": {},
+            "endereco_numero": "105",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "09/09/2021",
+                "dInc": "01/07/2020",
+                "hAlt": "11:16:19",
+                "hInc": "20:57:41",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "NEXA RECURSOS MINERAIS S.A.",
+            "pessoa_fisica": "N",
+            "razao_social": "NEXA RECURSOS MINERAIS S.A.",
+            "recomendacoes": {
+                "codigo_vendedor": 1873050300,
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "41",
+            "telefone1_numero": "3388-5437",
+            "telefone2_numero": "55 41 3388 5425"
+        },
+        {
+            "bairro": "LAPA DE BAIXO",
+            "bloquear_faturamento": "N",
+            "cep": "05069010",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "1721400",
+            "cnpj_cpf": "44.145.845/0001-40",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038619,
+            "codigo_pais": "1058",
+            "complemento": "PREDIO 19 ESPACO 2 E-BUSINESS PARK",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "nfe.servico.brasil@softys.com",
+            "endereco": "R WERNER VON SIEMENS",
+            "enderecoEntrega": {},
+            "endereco_numero": "111",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "14:11:04",
+                "hInc": "20:58:26",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "SOFTYS",
+            "pessoa_fisica": "N",
+            "razao_social": "MELHORAMENTOS CMPC LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3670-3560"
+        },
+        {
+            "bairro": "CAMPOS ELISIOS",
+            "bloquear_faturamento": "N",
+            "cep": "01201901",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "8211300",
+            "cnpj_cpf": "52.556.578/0008-07",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038729,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "rogerio.machado@elgin.com.br",
+            "endereco": "R BAR DE CAMPINAS",
+            "enderecoEntrega": {},
+            "endereco_numero": "305",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "14:09:25",
+                "hInc": "20:58:59",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "ELGIN SA",
+            "pessoa_fisica": "N",
+            "razao_social": "ELGIN SA",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3411-2010"
+        },
+        {
+            "bairro": "CIDADE MONCOES",
+            "bloquear_faturamento": "N",
+            "cep": "04571900",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "2441501",
+            "cnpj_cpf": "61.409.892/0001-73",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038819,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR 14 CONJ 141",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "cadastrodeempresas@votorantim.com",
+            "endereco": "AV ENGENHEIRO LUIZ CARLOS BERRINI 105",
+            "enderecoEntrega": {},
+            "endereco_numero": "105",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "01/07/2020",
+                "hAlt": "14:12:23",
+                "hInc": "20:59:37",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "COMPANHIA BRASILEIRA DE ALUMINIO",
+            "pessoa_fisica": "N",
+            "razao_social": "COMPANHIA BRASILEIRA DE ALUMINIO",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "41",
+            "telefone1_numero": "3388-5204",
+            "telefone2_ddd": "41",
+            "telefone2_numero": "3388-5365"
+        },
+        {
+            "bairro": "VL ELCLOR",
+            "bloquear_faturamento": "N",
+            "cep": "09154100",
+            "cidade": "SANTO ANDRE (SP)",
+            "cidade_ibge": "3547809",
+            "cnae": "2031200",
+            "cnpj_cpf": "61.460.325/0004-94",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873038835,
+            "codigo_pais": "1058",
+            "complemento": "KM 38",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "fabiana.costa@beesby.com",
+            "endereco": "EST DE FERRO SANTOS JUNDIAI",
+            "enderecoEntrega": {},
+            "endereco_numero": "S/N",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "03/08/2020",
+                "dInc": "01/07/2020",
+                "hAlt": "16:28:22",
+                "hInc": "21:00:09",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "ELCLOR",
+            "pessoa_fisica": "N",
+            "razao_social": "UNIPAR INDUPA DO BRASIL S.A.",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ]
+        },
+        {
+            "bairro": "SANTO AMARO",
+            "bloquear_faturamento": "N",
+            "cep": "04709110",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6920602",
+            "cnpj_cpf": "24.918.171/0001-62",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873059983,
+            "codigo_pais": "1058",
+            "complemento": "CONJ 1 SALA 109",
+            "contato": "FABIO BALDERRAMA",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "gabriel@a2solucoesinteligentes.com.br",
+            "endereco": "R HENRI DUNANT",
+            "enderecoEntrega": {},
+            "endereco_numero": "137",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "02/07/2020",
+                "hAlt": "13:38:26",
+                "hInc": "00:20:34",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "AVALARA BRASIL - ASSESSORIA E CONSULTORIA TRIBUTARIA E TECNOLOGICA LTDA",
+            "pessoa_fisica": "N",
+            "razao_social": "AVALARA BRASIL - ASSESSORIA E CONSULTORIA TRIBUTARIA E TECNO",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3107-3277"
+        },
+        {
+            "bairro": "CIDADE MONCOES",
+            "bloquear_faturamento": "N",
+            "cep": "04576060",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "8211300",
+            "cnpj_cpf": "17.082.469/0001-10",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873059988,
+            "codigo_pais": "1058",
+            "complemento": "CONJ 91",
+            "contato": "REGINA",
+            "dadosBancarios": {
+                "agencia": "1229",
+                "codigo_banco": "033",
+                "conta_corrente": "13001256-0",
+                "doc_titular": "17.082.469/0001-10",
+                "nome_titular": "BRAVO PROJETOS E OUTSOURCING LTDA",
+                "transf_padrao": "N"
+            },
+            "email": "contato@bravobpo.com.br",
+            "endereco": "R SAMUEL MORSE",
+            "enderecoEntrega": {},
+            "endereco_numero": "74",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "02/07/2020",
+                "hAlt": "13:39:03",
+                "hInc": "00:26:18",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "BRAVO PROJETOS &amp; OUTSOURCING",
+            "pessoa_fisica": "N",
+            "razao_social": "BRAVO PROJETOS E OUTSOURCING LTDA",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "4636-5330"
+        },
+        {
+            "bairro": "BELA VISTA",
+            "bloquear_faturamento": "N",
+            "cep": "01311200",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "6204000",
+            "cnpj_cpf": "22.272.936/0001-04",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873060016,
+            "codigo_pais": "1058",
+            "complemento": "CONJ 72 CV 8715",
+            "contato": "PHILLIPE DA CRUZ SILVA",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "contato@bxit.com.br,luciana.paiva@innovative.com.br",
+            "endereco": "AVENIDA PAULISTA",
+            "enderecoEntrega": {},
+            "endereco_numero": "1765",
+            "estado": "SP",
+            "exterior": "N",
+            "fax_ddd": "11",
+            "fax_numero": "49779445",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/07/2020",
+                "dInc": "02/07/2020",
+                "hAlt": "01:13:21",
+                "hInc": "00:29:36",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "BXIT SERVICES TECNOLOGIA DA INFORMACAO EIRELI",
+            "pessoa_fisica": "N",
+            "razao_social": "BXIT SERVICES TECNOLOGIA DA INFORMACAO EIRELI",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "31703170",
+            "telefone2_ddd": "11",
+            "telefone2_numero": "44794187"
+        },
+        {
+            "bairro": "PINHEIROS",
+            "bloquear_faturamento": "N",
+            "cep": "05425070",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "3511501",
+            "cnpj_cpf": "60.933.603/0001-78",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873060020,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR 12",
+            "contato": "MARIO ANTONIO BERTONCINI",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "coe-societario@votorantim.com",
+            "endereco": "AV DOUTORA RUTH CARDOSO",
+            "enderecoEntrega": {},
+            "endereco_numero": "7221",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "11/07/2022",
+                "dInc": "02/07/2020",
+                "hAlt": "10:41:17",
+                "hInc": "00:29:40",
+                "uAlt": "P000328582",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "104.918.003.117",
+            "inscricao_municipal": "",
+            "nome_fantasia": "CESP - COMPANHIA ENERGETICA DE SAO PAULO",
+            "pessoa_fisica": "N",
+            "razao_social": "CESP - COMPANHIA ENERGETICA DE SAO PAULO",
+            "recomendacoes": {
+                "codigo_vendedor": 1873021611,
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "5613-2100"
+        },
+        {
+            "bairro": "CENTRO",
+            "bloquear_faturamento": "N",
+            "cep": "18125000",
+            "cidade": "ALUMINIO (SP)",
+            "cidade_ibge": "3501152",
+            "cnae": "2441501",
+            "cnpj_cpf": "61.409.892/0003-35",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873060046,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "cadastrodeempresas@votorantim.com",
+            "endereco": "R MORAES DO REGO",
+            "enderecoEntrega": {},
+            "endereco_numero": "347",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "11/09/2020",
+                "dInc": "02/07/2020",
+                "hAlt": "13:03:04",
+                "hInc": "00:30:42",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "COMPANHIA BRASILEIRA DE ALUMINIO",
+            "pessoa_fisica": "N",
+            "razao_social": "COMPANHIA BRASILEIRA DE ALUMINIO",
+            "recomendacoes": {
+                "codigo_vendedor": 1873050300,
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "41",
+            "telefone1_numero": "3388-5204",
+            "telefone2_ddd": "41",
+            "telefone2_numero": "3388-5660"
+        },
+        {
+            "bairro": "ZONA RURAL",
+            "bloquear_faturamento": "N",
+            "cep": "76420000",
+            "cidade": "NIQUELANDIA (GO)",
+            "cidade_ibge": "5214606",
+            "cnae": "0729403",
+            "cnpj_cpf": "61.409.892/0224-95",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873060052,
+            "codigo_pais": "1058",
+            "complemento": "KM 15 ACAMPAMENTO MACEDO",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "ext.jose.bastos@vcimentos.com",
+            "endereco": "ROD GO 535",
+            "enderecoEntrega": {},
+            "endereco_numero": "S/N",
+            "estado": "GO",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "11/09/2020",
+                "dInc": "02/07/2020",
+                "hAlt": "13:03:12",
+                "hInc": "00:31:37",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "COMPANHIA BRASILEIRA DE ALUMINIO",
+            "pessoa_fisica": "N",
+            "razao_social": "COMPANHIA BRASILEIRA DE ALUMINIO",
+            "recomendacoes": {
+                "codigo_vendedor": 1873050300,
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3405-5656"
+        },
+        {
+            "bairro": "VILA OLIMPIA",
+            "bloquear_faturamento": "N",
+            "cep": "04551000",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "8299799",
+            "cnpj_cpf": "30.468.108/0001-74",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873060056,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR 9 CONJ 91 E 94 SALA A",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "thayna.nascimento@votorantim.com",
+            "endereco": "R OLIMPIADAS",
+            "enderecoEntrega": {},
+            "endereco_numero": "205",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "12/08/2021",
+                "dInc": "02/07/2020",
+                "hAlt": "15:47:51",
+                "hInc": "00:32:24",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "COMPART SERVICOS E ASSESSORIAS LTDA.",
+            "pessoa_fisica": "N",
+            "razao_social": "COMPART SERVICOS E ASSESSORIAS LTDA.",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "3704-3300"
+        },
+        {
+            "bairro": "ITAIM BIBI",
+            "bloquear_faturamento": "N",
+            "cep": "04533002",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "4743100",
+            "cnpj_cpf": "07.783.325/0001-37",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873060058,
+            "codigo_pais": "1058",
+            "complemento": "",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "elisangela@elmarcontabil.com.br",
+            "endereco": "R TABAPUA",
+            "enderecoEntrega": {},
+            "endereco_numero": "662",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "02/07/2020",
+                "dInc": "02/07/2020",
+                "hAlt": "00:34:42",
+                "hInc": "00:32:25",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "149264216110",
+            "inscricao_municipal": "",
+            "nome_fantasia": "FAMARTE MOLDURAS E PRODUTOS ARTISTICOS LTDA.",
+            "pessoa_fisica": "N",
+            "razao_social": "FAMARTE MOLDURAS E PRODUTOS ARTISTICOS LTDA.",
+            "recomendacoes": {
+                "gerar_boletos": "N"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "4463-3199"
+        },
+        {
+            "bairro": "INDIANOPOLIS",
+            "bloquear_faturamento": "N",
+            "cep": "04028002",
+            "cidade": "SAO PAULO (SP)",
+            "cidade_ibge": "3550308",
+            "cnae": "4511103",
+            "cnpj_cpf": "10.313.717/0001-47",
+            "codigo_cliente_integracao": "",
+            "codigo_cliente_omie": 1873060061,
+            "codigo_pais": "1058",
+            "complemento": "ANDAR 10",
+            "dadosBancarios": {
+                "agencia": "",
+                "codigo_banco": "",
+                "conta_corrente": "",
+                "doc_titular": "",
+                "nome_titular": "",
+                "transf_padrao": "N"
+            },
+            "email": "alima@jaguarlandrover.com",
+            "endereco": "AV IBIRAPUERA",
+            "enderecoEntrega": {},
+            "endereco_numero": "2332",
+            "estado": "SP",
+            "exterior": "N",
+            "inativo": "N",
+            "info": {
+                "cImpAPI": "N",
+                "dAlt": "06/04/2022",
+                "dInc": "02/07/2020",
+                "hAlt": "14:14:28",
+                "hInc": "00:35:04",
+                "uAlt": "P000185893",
+                "uInc": "P000185893"
+            },
+            "inscricao_estadual": "",
+            "inscricao_municipal": "",
+            "nome_fantasia": "JAGUAR E LAND ROVER BRASIL",
+            "pessoa_fisica": "N",
+            "razao_social": "JAGUAR E LAND ROVER BRASIL INDUSTRIA E COMERCIO DE VEICULOS",
+            "recomendacoes": {
+                "gerar_boletos": "N",
+                "numero_parcelas": "000"
+            },
+            "tags": [
+                {
+                    "tag": "Cliente"
+                }
+            ],
+            "telefone1_ddd": "11",
+            "telefone1_numero": "5056-7000"
+        }
+    ]
+}

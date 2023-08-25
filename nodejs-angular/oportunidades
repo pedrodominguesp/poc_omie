@@ -1,0 +1,53 @@
+//OPORTUNIDADE
+{
+    "concorrentes": [],
+    "envolvidos": {
+        "nCodFinder": 0,
+        "nCodParceiro": 0,
+        "nCodPrevenda": 0
+    },
+    "fasesStatus": {
+        "dConclusao": "",
+        "dNovoLead": "23/08/2022",
+        "dProjeto": "",
+        "dQualificacao": "23/08/2022",
+        "dShowRoom": "23/08/2022",
+        "dTreinamento": "23/08/2022",
+        "nCodFase": 1872865832,
+        "nCodMotivo": 0,
+        "nCodStatus": 1872865864
+    },
+    "identificacao": {
+        "cCodIntOp": "",
+        "cDesOp": "2944 - PO Dates_V02",
+        "nCodConta": 2019520194,
+        "nCodContato": 4880832035,
+        "nCodOp": 5090835421,
+        "nCodOrigem": 1872865847,
+        "nCodSolucao": 1872865858,
+        "nCodVendedor": 2014616186
+    },
+    "observacoes": {
+        "cObs": ""
+    },
+    "outrasInf": {
+        "cEmailOp": "35qsg6w67.bef52qho6ne1ng4pe1t05@crm.omie.com.br",
+        "dAlteracao": "22/03/2023",
+        "dInclusao": "23/08/2022",
+        "hAlteracao": "13:22:30",
+        "hInclusao": "17:23:29",
+        "nCodTipo": 5083914745
+    },
+    "previsaoTemp": {
+        "nAnoPrev": 2023,
+        "nMesPrev": 5,
+        "nTemperatura": 90
+    },
+    "ticket": {
+        "nMeses": 3,
+        "nProdutos": 0,
+        "nRecorrencia": 18405.07,
+        "nServicos": 0,
+        "   ": 55215.21
+    }
+}
